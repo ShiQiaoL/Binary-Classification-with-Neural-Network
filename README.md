@@ -17,8 +17,8 @@ This repository contains code to train a binary classification model using a neu
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/ShiQiaoL/Binary-Classification-with-Neural-Network.git
+   cd Binary-Classification-with-Neural-Network
    ```
 
 2. **Download the data**:  
@@ -30,7 +30,7 @@ This repository contains code to train a binary classification model using a neu
 3. **Run the script**:
 
    ```bash
-   python model.py
+   python classfication-annotations.py
    ```
 
 4. **Outputs**:
