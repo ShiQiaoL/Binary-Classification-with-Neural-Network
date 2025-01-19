@@ -32,7 +32,7 @@ This repository contains code for training a binary classification model using a
    ```
 
 4. **Outputs**:
-   - `predicted_results.csv`: Predicted labels for the test data.
+   - `predicted_results.csv`: Predicted labels for the candidate Z-scheme heterostructures.
 ## License
 
 MIT License.
