@@ -23,7 +23,7 @@ This repository contains code for training a binary classification model using a
 
 2. **Download the data**:  
    Place the following CSV files in the repository:
-   - `hetero_lattice_Allen_010_diff_06_20221205-label.csv` (Training data)
+   - `hetero_lattice_Allen_010_diff_06_20221205-label.csv` (all data)
 
 3. **Run the script**:
 
